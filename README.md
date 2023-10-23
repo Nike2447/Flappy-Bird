@@ -27,7 +27,7 @@ Before running the code, make sure you have the following installed:
 3. Run the code by executing the following command:
 
     ```
-    python flappy_bird_ai.py
+    python game.py
     ```
 
 ## How to Play
@@ -36,7 +36,7 @@ The game will run with artificial intelligence controlling the bird. Your object
 
 ## Code Structure
 
-- `flappy_bird_ai.py` is the main script that contains the game logic and AI implementation.
+- `game.py` is the main script that contains the game logic and AI implementation.
 
 - `imgs` folder contains the images used for the game graphics.
 
