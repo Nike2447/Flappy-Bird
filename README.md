@@ -13,6 +13,10 @@ Before running the code, make sure you have the following installed:
     ```
     pip install pygame
     ```
+- NEAT: Install neat using pip by running the following command in your terminal or command prompt:
+
+      pip install neat-python
+   
 
 ## Getting Started
 
